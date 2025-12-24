@@ -59,7 +59,7 @@ The model treats SQL injection prevention as a **Language Translation** problem 
 
 3.  **Run the Desktop GUI (Inference):**
     ```bash
-    python sql_firewall_gui_v20.py
+    python main.py
     ```
 
 ### Training the Model (Optional)
