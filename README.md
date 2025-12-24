@@ -49,7 +49,7 @@ The model treats SQL injection prevention as a **Language Translation** problem 
 1.  **Clone the repository:**
     ```bash
     git clone [https://github.com/MohamedAliWerda/Neural-SQL-Guard-Character-Level-WAF-with-Attention-CNN.git](https://github.com/MohamedAliWerda/Neural-SQL-Guard-Character-Level-WAF-with-Attention-CNN.git)
-    cd neural-sql-guard
+    cd Neural-SQL-Guard-Character-Level-WAF-with-Attention-CNN
     ```
 
 2.  **Install dependencies:**
