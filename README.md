@@ -48,7 +48,7 @@ The model treats SQL injection prevention as a **Language Translation** problem 
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/yourusername/neural-sql-guard.git](https://github.com/yourusername/neural-sql-guard.git)
+    git clone [https://github.com/MohamedAliWerda/neural-sql-guard.git](https://github.com/yourusername/neural-sql-guard.git)
     cd neural-sql-guard
     ```
 
